@@ -31,7 +31,7 @@ As we look into the cost of the soybean production based on the Chicago Board of
 I plan on buying December 2018 contracts based on the increasing percentage of the beginning stocks and decreasing exports. I will be selling 10 contracts to begin and see where the market goes.  By buying 10 contracts at a price of $12.50 each that will total out to be $125.  Thus, making each contract worth $1,250, making the total trade cost $1,375.  As the predetermined marginal price is at $0.04, it may force me to sell. However, if the market takes a continual decline, then I will have to buy more contracts.  At a starting amount of $100,000 and buying 10 contracts at a total of $1,375, I will be left with an amount of $101,375. 
  
  
-Sources
+### Sources ###
 
 http://ncsoy.org/media-resources/history-of-soybeans/
 http://farmdocdaily.illinois.edu/2018/01/weekly-outlook-is-it-time-to-sell-new-soybeans.html 
