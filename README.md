@@ -6,25 +6,25 @@ As we look into the cost of the soybean production based on the Chicago Board of
 Brock Report- Soybean		
 				
 		17/18	18/19	% Change
-Acreage: Million				
+		Acreage: Million				
     Planted		90.1	91	0.009989
     Harvested		89.5	90.4	0.010056
     Yield		49.1	50	0.01833
 				
-Supply: Mill/bu				
+		Supply: Mill/bu				
     Beg. Stocks-Carry Over		302	555	0.837748
     Production		4392	4520	0.029144
     Imports		25	25	0
-Total		4718	5100	0.080967
+	Total		4718	5100	0.080967
 				
-Usage: Mill/bu				
+		Usage: Mill/bu				
     Crush		1960	1980	0.010204
     Exports		2065	2200	0.065375
     Seeds		106	105	-0.00943
     Residual		33	35	0.060606
-Total		4163	4320	0.037713
+	Total		4163	4320	0.037713
 				
-Ending Stocks		555	780	0.405405
+		Ending Stocks		555	780	0.405405
    Stock/Use		13%	18%	0.353383
    Farm Price: $/bu		 9.00-9.70 	 7.75-9.00 	
 
